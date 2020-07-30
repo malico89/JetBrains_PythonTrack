@@ -4,4 +4,4 @@ As I complete the JetBrains Python developer track, I will post my completed pro
 * First project: Coffee Machine, coffee_class.py (first use of classes in a project I've written)
 
 * Second project: Tic-Tac-Toe with AI 
-  * Usage in command line: [start user/easy/medium/hard] [start user/easy/medium/hard]
+  * Usage in command line: start <user/easy/medium/hard> <user/easy/medium/hard>
